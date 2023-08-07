@@ -6,7 +6,7 @@ This group will focus on leveraging technology to gain a competitive edge, explo
 
 ## Steps
 
-**1. Define the Goals:** Clearly define the goals and objectives of the research group. Determine what you want to achieve through the group and how it aligns with the field of Business Intelligence. Identify specific research areas or projects that you want the group to focus on.
+**1. Define the Goals:** Clearly define the goals and objectives of the research group. Determine what you want to achieve through the group and how it aligns with the field of Business Intelligence. Identify specific research areas or projects that you want the group to focus on.:WIP:
 
 **2. Recruit Interested Students:** Advertise the research group to attract undergraduates who are interested in Machine Learning and AI in the context of Business Intelligence. You can use various channels such as university newsletters, social media, posters, and departmental announcements to reach out to potential members.
 
