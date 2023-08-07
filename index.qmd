@@ -4,7 +4,13 @@ title: "ITvantage Research Consortium"
 
 This group will focus on leveraging technology to gain a competitive edge, explore new possibilities, and achieve favorable outcomes in the context of the research group or organization.
 
-## Steps 🟥 🟨 🟩
+## Steps 
+
+🟥 - not started.
+
+🟨 - work in progress.
+
+🟩 - completed.
 
 **1. Define the Goals:** Clearly define the goals and objectives of the research group. Determine what you want to achieve through the group and how it aligns with the field of Business Intelligence. Identify specific research areas or projects that you want the group to focus on.🟨
 
