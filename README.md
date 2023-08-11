@@ -1,4 +1,4 @@
-# ITvantage-Research-Consortium
+# ITvantage Research Consortium
 
 This group will focus on leveraging technology to gain a competitive edge, explore new possibilities, and achieve favorable outcomes in the context of the research group or organization.
 
